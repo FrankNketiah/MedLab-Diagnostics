@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src= "https://i.pinimg.com/736x/6e/37/5a/6e375ad883c69fbb6f5845e99ca25623.jpg" alt="Welcome Banner" width="100%" />
+</p>
+
 # MedLab Diagnostics - EDA & Strategic Insight Project
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
@@ -66,5 +70,8 @@ Building bridges between data and decisions in healthcare, public planning, and 
 
 [Connect with me on LinkedIn](https://linkedin.com/in/franknketiah)  
 Email: franknketiah@gmail.com
-
 ---
+
+<p align="center">
+  <img src= "https://i.pinimg.com/736x/42/5d/5e/425d5e22f35c4129532b6c3b1ebb8002.jpg" alt="Welcome Banner" width="100%" />
+</p>
