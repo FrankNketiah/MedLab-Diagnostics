@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "https://i.pinimg.com/736x/6e/37/5a/6e375ad883c69fbb6f5845e99ca25623.jpg" alt="Welcome Banner" width="100%" />
+  <img src= "https://i.pinimg.com/736x/6e/37/5a/6e375ad883c69fbb6f5845e99ca25623.jpg" alt="Welcome Banner" width="100%" height="250px" />
 </p>
 
 # MedLab Diagnostics - EDA & Strategic Insight Project
@@ -73,5 +73,5 @@ Email: franknketiah@gmail.com
 ---
 
 <p align="center">
-  <img src= "https://i.pinimg.com/736x/42/5d/5e/425d5e22f35c4129532b6c3b1ebb8002.jpg" alt="Welcome Banner" width="100%" />
+  <img src= "https://i.pinimg.com/736x/42/5d/5e/425d5e22f35c4129532b6c3b1ebb8002.jpg" alt="Welcome Banner" width="100%" height="250px" />
 </p>
